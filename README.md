@@ -76,11 +76,11 @@ PassCheck uses a comprehensive scoring system:
 - **Pattern Penalties**: Deductions for common patterns, dates, dictionary words
 
 ### Rating Scale
-- **90-100**: Excellent 🟢
-- **70-89**: Strong 🔵
-- **50-69**: Moderate 🟡
-- **30-49**: Weak 🔴
-- **0-29**: Very Weak 🔴
+- **90-100**: Excellent 
+- **70-89**: Strong 
+- **50-69**: Moderate 
+- **30-49**: Weak 
+- **0-29**: Very Weak 
 
 ## File Structure
 ```
