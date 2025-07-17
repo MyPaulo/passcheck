@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### Quick Install
 
 ```bash
-git clone https://github.com/yourusername/passcheck.git
+git clone https://github.com/username/passcheck.git
 cd passcheck
 pip install -r requirements.txt
 python3 passcheck.py
